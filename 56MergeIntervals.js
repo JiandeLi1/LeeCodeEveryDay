@@ -20,9 +20,9 @@ var merge = function(intervals) {
     //If a[1] < b[1], that means a may be in the interval b,
     //if a[1] >= b[1], that means b totally in side interval a,
     //doesn't need to do any action.
-    //To define a is in b, we also need to compare is a[1] less than b[0],
+    //To define a interweave in b, we also need to compare is a[1] less than b[0],
     //if yes, a's second element become b's second element.
-    //Otherwise, a in not in the b interval, push b to result.
+    //Otherwise, a in not interweave the b interval, push b to result.
     while(i<intervals.length){
         let len=result.length-1;
         if(result[len][1]<intervals[i][1]){
