@@ -7,4 +7,5 @@ At least do one leecode problem each day <br />
 4/21/21--94. Binary Tree Inorder Traversal<br />
 4/22/21--56. Merge Intervals<br />
 4/23/21--75. Sort Colors<br />
-4/23/22--148. Sort List<br />
+4/24/21--148. Sort List<br />
+4/25/21--22. Generate Parentheses<br />
