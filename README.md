@@ -19,3 +19,4 @@ At least do one leecode problem each day <br />
 5/3/21--55. Jump Game<br />
 5/4/21--45. Jump Game II<br />
 5/5/21--1306. Jump Game III<br />
+5/6/21--1696. Jump Game VI<br />
