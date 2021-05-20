@@ -33,3 +33,4 @@ At least do one leecode problem each day <br />
 5/17/21--856. Score of Parentheses<br />
 5/18/21--678. Valid Parenthesis String<br />
 5/19/21--241. Different Ways to Add Parentheses && 1249. Minimum Remove to Make Valid Parentheses && 1541. Minimum Insertions to Balance a Parentheses String<br /> 
+5/20/21--32. Longest Valid Parentheses && 20. Valid Parentheses<br />
