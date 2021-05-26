@@ -1,0 +1,25 @@
+/**
+ * @param {string} word1
+ * @param {string} word2
+ * @return {number}
+ */
+var minDistance = function(word1, word2) {
+    let len1=word1.length;
+    let len2=word2.length;
+    let dp=Array.from(Array(len2+1), ()=>new Array(len1+1));
+    dp[0][0]=0;
+    for(let i=1;i<=len1;i++){
+        dp[0][i]=i;
+    }
+    for(let j=1;j<=len2;j++){
+        dp[j][0]=j;
+    }
+    for(let i=1;i<=len2;i++){
+       for(let j=1;j<=len1;j++){
+           word1.charAt(j-1)==word2.charAt(i-1) ?
+               dp[i][j]=dp[i-1][j-1] :
+               dp[i][j]=Math.min(dp[i-1][j],dp[i][j-1])+1;
+       }
+    }
+    return dp[len2][len1];
+};
