@@ -44,3 +44,5 @@ May/twenty-seventh/Two Thousand-Twenty one -- 96. Unique Binary Search Trees<br 
 May/Twenty-eighth/Two Thousand-twenty one-- 95. Unique Binary Search Tree <br />
 May/Twenty-nineth/Two Thousand-Twenty one-- 62. Unique Paths && 63. Unique Paths II<br />
 May/Thirtieth/Two Thousand-Twenry one -- 64. Minimum Path Sum <br />
+May/Third-first/Two Thousand-Twenry one -- 1608. Special Array With X Elements Greater Than or Equal X <br />
+June/First/Two Thousand-Twenry one -- 1870. Minimum Speed to Arrive on Time <br />
