@@ -46,3 +46,4 @@ May/Twenty-nineth/Two Thousand-Twenty one-- 62. Unique Paths && 63. Unique Paths
 May/Thirtieth/Two Thousand-Twenry one -- 64. Minimum Path Sum <br />
 May/Third-first/Two Thousand-Twenry one -- 1608. Special Array With X Elements Greater Than or Equal X <br />
 June/First/Two Thousand-Twenry one -- 1870. Minimum Speed to Arrive on Time <br />
+June/Second/Two Thousand-Twenry one -- 1802. Maximum Value at a Given Index in a Bounded Array<br />
