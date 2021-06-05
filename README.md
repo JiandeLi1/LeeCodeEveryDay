@@ -47,3 +47,5 @@ May/Thirtieth/Two Thousand-Twenry one -- 64. Minimum Path Sum <br />
 May/Third-first/Two Thousand-Twenry one -- 1608. Special Array With X Elements Greater Than or Equal X <br />
 June/First/Two Thousand-Twenry one -- 1870. Minimum Speed to Arrive on Time <br />
 June/Second/Two Thousand-Twenry one -- 1802. Maximum Value at a Given Index in a Bounded Array<br />
+June/Third/Two Thousand-Twenty one -- 206. Reverse Linked List <br />
+June/Fourth/Two Thousand-Twenty one -- 92. Reverse Linked List II <br />
