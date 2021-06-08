@@ -50,3 +50,5 @@ June/Second/Two Thousand-Twenry one -- 1802. Maximum Value at a Given Index in a
 June/Third/Two Thousand-Twenty one -- 206. Reverse Linked List <br />
 June/Fourth/Two Thousand-Twenty one -- 92. Reverse Linked List II <br />
 June/Fifth/Two Thousand-Twenty one -- 160. Intersection of Two Linklists <br />
+June/Sixth/ Two Thousand-Twenty twenty-one -- 237. Delete Node in a Linked List <br />
+June/Seventh/ Two Thousand-Twenty twenty-one -- 445. Add Two Numbers II <br />
