@@ -34,23 +34,24 @@ At least do one leecode problem each day <br />
 5/18/21--678. Valid Parenthesis String<br />
 5/19/21--241. Different Ways to Add Parentheses && 1249. Minimum Remove to Make Valid Parentheses && 1541. Minimum Insertions to Balance a Parentheses String<br /> 
 5/20/21--32. Longest Valid Parentheses && 20. Valid Parentheses<br />
-May/Twenty first/Two Thousand-Twenty one -- 1544. Make The String Great<br />
-May/Twenty-Second/Two Thousand-Twenty one -- 97. Interleaving String<br />
-May/Twenty-third/Two Thousand-Twenty one -- 115. Distinct Subsequences<br />
-May/Twenty-fourth/Two Thousand-Twenty one -- 712. Minimum ASCII Delete Sum for Two Strings<br />
-May twenty-fifth/Two Thousand-Twenty one -- 583. Delete Operation for Two Strings<br />
-May/twenty-sixth/Two Thousand-Twenty one -- 72. Edit Distance<br />
-May/twenty-seventh/Two Thousand-Twenty one -- 96. Unique Binary Search Trees<br />
-May/Twenty-eighth/Two Thousand-twenty one-- 95. Unique Binary Search Tree <br />
-May/Twenty-nineth/Two Thousand-Twenty one-- 62. Unique Paths && 63. Unique Paths II<br />
-May/Thirtieth/Two Thousand-Twenry one -- 64. Minimum Path Sum <br />
-May/Third-first/Two Thousand-Twenry one -- 1608. Special Array With X Elements Greater Than or Equal X <br />
-June/First/Two Thousand-Twenry one -- 1870. Minimum Speed to Arrive on Time <br />
-June/Second/Two Thousand-Twenry one -- 1802. Maximum Value at a Given Index in a Bounded Array<br />
-June/Third/Two Thousand-Twenty one -- 206. Reverse Linked List <br />
-June/Fourth/Two Thousand-Twenty one -- 92. Reverse Linked List II <br />
-June/Fifth/Two Thousand-Twenty one -- 160. Intersection of Two Linklists <br />
-June/Sixth/ Two Thousand-Twenty twenty-one -- 237. Delete Node in a Linked List <br />
-June/Seventh/ Two Thousand-Twenty twenty-one -- 445. Add Two Numbers II <br />
-June/eighth/ Two Thousand-Twenty twenty-one -- 138. Copy List with Random Pointer <br />
-June/nineth/Two/ Two Thousand-Twenty twenty-one -- 23. Merge k Sorted Lists<br />
+May/Twenty first/Two Thousand - Twenty one -- 1544. Make The String Great<br />
+May/Twenty-Second/Two Thousand - Twenty one -- 97. Interleaving String<br />
+May/Twenty-third/Two Thousand - Twenty one -- 115. Distinct Subsequences<br />
+May/Twenty-fourth/Two Thousand - Twenty one -- 712. Minimum ASCII Delete Sum for Two Strings<br />
+May twenty-fifth/Two Thousand - Twenty one -- 583. Delete Operation for Two Strings<br />
+May/twenty-sixth/Two Thousand - Twenty one -- 72. Edit Distance<br />
+May/twenty-seventh/Two Thousand - Twenty one -- 96. Unique Binary Search Trees<br />
+May/Twenty-eighth/Two Thousand - twenty one-- 95. Unique Binary Search Tree <br />
+May/Twenty-nineth/Two Thousand - Twenty one-- 62. Unique Paths && 63. Unique Paths II<br />
+May/Thirtieth/Two Thousand - Twenry one -- 64. Minimum Path Sum <br />
+May/Third-first/Two Thousand - Twenry one -- 1608. Special Array With X Elements Greater Than or Equal X <br />
+June/First/Two Thousand - Twenry one -- 1870. Minimum Speed to Arrive on Time <br />
+June/Second/Two Thousand - Twenry one -- 1802. Maximum Value at a Given Index in a Bounded Array<br />
+June/Third/Two Thousand - Twenty one -- 206. Reverse Linked List <br />
+June/Fourth/Two Thousand - Twenty one -- 92. Reverse Linked List II <br />
+June/Fifth/Two Thousand - Twenty one -- 160. Intersection of Two Linklists <br />
+June/Sixth/ Two Thousand- Twenty-one -- 237. Delete Node in a Linked List <br />
+June/Seventh/ Two Thousand- Twenty-one -- 445. Add Two Numbers II <br />
+June/eighth/ Two Thousand - Twenty-one -- 138. Copy List with Random Pointer <br />
+June/nineth/Two Thousand - Twenty-one -- 23. Merge k Sorted Lists<br />
+Jun/Tenth/Two Thousand - Twenty one -- 328. Odd Even Linked List<br />
