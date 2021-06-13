@@ -53,5 +53,7 @@ June/Fifth/Two Thousand - Twenty one -- 160. Intersection of Two Linklists <br /
 June/Sixth/ Two Thousand- Twenty-one -- 237. Delete Node in a Linked List <br />
 June/Seventh/ Two Thousand- Twenty-one -- 445. Add Two Numbers II <br />
 June/eighth/ Two Thousand - Twenty-one -- 138. Copy List with Random Pointer <br />
-June/nineth/Two Thousand - Twenty-one -- 23. Merge k Sorted Lists<br />
-Jun/Tenth/Two Thousand - Twenty one -- 328. Odd Even Linked List<br />
+June/nineth/Two Thousand - Twenty-one -- 23. Merge k Sorted Lists <br />
+Jun/Tenth/Two Thousand - Twenty one -- 328. Odd Even Linked List <br />
+Jun/Eleventh/Two Thousand - Twenty one -- 142. Linked List Cycle <br />
+Jun/Twelfth/Two Thousand - Twenty one -- 142. Linked List Cycle II <br />
