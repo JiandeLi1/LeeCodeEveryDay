@@ -61,3 +61,5 @@ Jun/Thirteenth/Two Thousand - Twenty one -- 234. Palindrome Linked List<br />
 Jun/fourteenth/Two Thousand - Twenty one -- 203. Remove Linked List Elements<br />
 Jun/fifteenth/Two Thousand - Twenty one -- 1721. Swapping Nodes in a Linked List<br />
 Jun/Sixteenth/Two Thousand - Twenty one -- 1669. Merge In Between Linked Lists && 225. Implement Stack using Queues<br />
+Jun/Seventh -- Jun/Twenty/Two Thousand - Twenty One -- Prepare for interview <br />
+Jun/Twenty-first/Two Thousand - Twenty one -- 232. Implement Queue using Stacks <br />
