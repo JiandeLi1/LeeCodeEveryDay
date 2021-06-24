@@ -64,3 +64,4 @@ Jun/Sixteenth/Two Thousand - Twenty one -- 1669. Merge In Between Linked Lists &
 Jun/Seventh -- Jun/Twenty/Two Thousand - Twenty One -- Prepare for interview <br />
 Jun/Twenty-first/Two Thousand - Twenty one -- 232. Implement Queue using Stacks && 155. Min Stack && 921. Minimum Add to Make Parentheses Valid<br />
 Jun/Twenty-second/Two Thousand - Twenty one -- 621. Task Scheduler <br />
+Jun/Twenty-third/Two Thousand - Twenty one -- 71. Simplify Path <br />
