@@ -68,3 +68,4 @@ Jun/Twenty-third/Two Thousand - Twenty one -- 71. Simplify Path <br />
 Jun/Twenty-fourth/Two Thousand - Twenty one -- 143. Reorder List <br />
 Jun/Twenty-fifth/Two Thousand - Twenty one -- 316. Remove Duplicate Letters<br />
 Jun/Twenty-sixth/Two Thousand - Twenty one -- 224. Basic Calculator <br />
+Jun/Twenty-seventh/Two Thousand - Twenty one -- 227. Basic Calculator II <br />
