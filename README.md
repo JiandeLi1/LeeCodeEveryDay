@@ -71,3 +71,4 @@ Jun/Twenty-sixth/Two Thousand - Twenty one -- 224. Basic Calculator <br />
 Jun/Twenty-seventh/Two Thousand - Twenty one -- 227. Basic Calculator II <br />
 Jun/Twenty-eighth/Two Thousand - Twenty one -- 215. Kth Largest Element in an Array <br />
 Jun/Twenty-nineth/Two Thousand - Twenty one -- 394. Decode String <br />
+Jun/Thirtieth/Two Thousand - Twenty one -- 739. Daily Temperatures <br />
