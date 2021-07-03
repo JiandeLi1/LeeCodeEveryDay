@@ -72,3 +72,5 @@ Jun/Twenty-seventh/Two Thousand - Twenty one -- 227. Basic Calculator II <br />
 Jun/Twenty-eighth/Two Thousand - Twenty one -- 215. Kth Largest Element in an Array <br />
 Jun/Twenty-nineth/Two Thousand - Twenty one -- 394. Decode String <br />
 Jun/Thirtieth/Two Thousand - Twenty one -- 739. Daily Temperatures <br />
+July/First/Two Thousand - Twenty one -- 496. Next Greater Element I <br />
+July/Second/Two Thousand - Twenty one -- 901. Online Stock Span <br />
