@@ -78,3 +78,4 @@ July/Third/Two Thousand - Twenty one -- 962. Maximum Width Ramp <br />
 July/fourth/Two Thousand - Twenty one -- 907. Sum of Subarray Minimums<br />
 July/fifth/Two Thousand - Twenty one -- 402. Remove K Digits <br />
 July/sixth/Two Thousand - Twenty one -- 1081. Smallest Subsequence of Distinct Characters <br />
+July/seventh/Two Thousand - Twenty one -- 769. Max Chunks To Make Sorted <br />
