@@ -83,3 +83,6 @@ July/eighth/Two Thousand - Twenty one -- 844. Backspace String Compare <br />
 July/nineth/Two Thousand - Twenty one -- 735. Asteroid Collision <br />
 July/tenth/Two Thousand - Twenty one -- 1441. Build an Array With Stack Operations <br />
 July/eleventh/Two Thousand - Twenty one -- 295. Find Median from Data Stream <br />
+July/twelfth/Two Thousand - Twenty one -- 455. Assign Cookies <br />
+July/thirteenth/Two Thousand - Twenty one -- 376. Wiggle Subsequence <br />
+
