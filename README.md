@@ -86,3 +86,6 @@ July/eleventh/Two Thousand - Twenty one -- 295. Find Median from Data Stream <br
 July/twelfth/Two Thousand - Twenty one -- 455. Assign Cookies <br />
 July/thirteenth/Two Thousand - Twenty one -- 376. Wiggle Subsequence <br />
 July/fourteenth/Two Thousand - Twenty one -- 122. Best Time to Buy and Sell Stock II <br />
+July/fifteenth/Two Thousand - Twenty one -- 561. Array Partition I <br />
+July/Sixteenth/Two Thousand - Twenty one -- 1403. Minimum Subsequence in Non-Increasing Order <br />
+July/Seventeenth/Two Thousand - Twenty one -- 409. Longest Palindrome <br />
