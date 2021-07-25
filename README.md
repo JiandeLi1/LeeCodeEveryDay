@@ -89,3 +89,6 @@ July/fourteenth/Two Thousand - Twenty one -- 122. Best Time to Buy and Sell Stoc
 July/fifteenth/Two Thousand - Twenty one -- 561. Array Partition I <br />
 July/Sixteenth/Two Thousand - Twenty one -- 1403. Minimum Subsequence in Non-Increasing Order <br />
 July/Seventeenth/Two Thousand - Twenty one -- 409. Longest Palindrome <br />
+July/eighth/Two Thousand - Twenty one -- 611. Valid Triangle Number <br />
+July/nineth/Two Thousand - Twenty one -- 680. Valid Palindrome II <br />
+July/twenty/Two Thousand - Twenty one -- 714. Best Time to Buy and Sell Stock with Transaction Fee <br />
