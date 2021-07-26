@@ -92,3 +92,6 @@ July/Seventeenth/Two Thousand - Twenty one -- 409. Longest Palindrome <br />
 July/eighth/Two Thousand - Twenty one -- 611. Valid Triangle Number <br />
 July/nineth/Two Thousand - Twenty one -- 680. Valid Palindrome II <br />
 July/twenty/Two Thousand - Twenty one -- 714. Best Time to Buy and Sell Stock with Transaction Fee <br />
+July/twenty - one /Two Thousand - Twenty one -- 763. Partition Labels <br />
+July/twenty - two /Two Thousand - Twenty one -- 605. Can Place Flowers <br />
+July/twenty - three /Two Thousand - Twenty one -- 1221. Split a String in Balanced Strings <br />
