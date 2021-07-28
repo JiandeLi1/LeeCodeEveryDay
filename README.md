@@ -96,3 +96,4 @@ July/twenty - one /Two Thousand - Twenty one -- 763. Partition Labels <br />
 July/twenty - two /Two Thousand - Twenty one -- 605. Can Place Flowers <br />
 July/twenty - three /Two Thousand - Twenty one -- 1221. Split a String in Balanced Strings <br />
 July/twenty - four /Two Thousand - Twenty one -- 1029. Two City Scheduling1029. Two City Scheduling<br />
+July/twenty - five /Two Thousand - Twenty one -- 1323. Maximum 69 Number <br />
