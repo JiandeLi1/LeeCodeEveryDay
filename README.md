@@ -99,3 +99,4 @@ July/twenty - four /Two Thousand - Twenty one -- 1029. Two City Scheduling1029. 
 July/twenty - five /Two Thousand - Twenty one -- 1323. Maximum 69 Number <br />
 July/twenty - six /Two Thousand - Twenty one -- 738. Monotone Increasing Digits <br />
 July/twenty - seven /Two Thousand - Twenty one -- 670. Maximum Swap <br />
+July/twenty - seven /Two Thousand - Twenty one -- 1247. Minimum Swaps to Make Strings Equal<br />
