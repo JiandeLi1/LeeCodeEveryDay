@@ -102,3 +102,4 @@ July/twenty - seven /Two Thousand - Twenty one -- 670. Maximum Swap <br />
 July/twenty - seven /Two Thousand - Twenty one -- 1247. Minimum Swaps to Make Strings Equal<br />
 July/twenty - eight /Two Thousand - Twenty one -- 452. Minimum Number of Arrows to Burst Balloons <br />
 July/twenty - nine /Two Thousand - Twenty one -- 984. String Without AAA or BBB <br />
+July/thirty/Two Thousand - Twenty one -- 1005. Maximize Sum Of Array After K Negations <br />
