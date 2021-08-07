@@ -104,3 +104,4 @@ July/twenty - eight /Two Thousand - Twenty one -- 452. Minimum Number of Arrows 
 July/twenty - nine /Two Thousand - Twenty one -- 984. String Without AAA or BBB <br />
 July/thirty/Two Thousand - Twenty one -- 1005. Maximize Sum Of Array After K Negations <br />
 August/frist/Two Thousand - Twenty one -- 942. DI String Match <br />
+August/second/Two Thousand - Twenty one -- 757. Set Intersection Size At Least Two <br />
