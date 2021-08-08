@@ -105,3 +105,4 @@ July/twenty - nine /Two Thousand - Twenty one -- 984. String Without AAA or BBB 
 July/thirty/Two Thousand - Twenty one -- 1005. Maximize Sum Of Array After K Negations <br />
 August/frist/Two Thousand - Twenty one -- 942. DI String Match <br />
 August/second/Two Thousand - Twenty one -- 757. Set Intersection Size At Least Two <br />
+August/Third/Two Thousand - Twenty one -- 78. Subsets<br />
