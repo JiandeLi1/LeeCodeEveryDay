@@ -5,7 +5,7 @@
  */
 
 /*
-Time complixity: O(n^2)
+Time complixity: O(c(n,k))
 space complexity: O(n)
 */
 var combine = function(n, k) {
