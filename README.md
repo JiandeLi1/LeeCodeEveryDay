@@ -114,3 +114,4 @@ August/seventeen/Two Thousand - Twenty one -- 315. Count of Smaller Numbers Afte
 August/seventeen/Two Thousand - Twenty one -- 377. Combinations <br />
 August/Twenty-one/ Two Thousand -Twenty one -- 39. Combination Sum (using backtracking)<br />
 August/Twenty-two/ Two Thousand -Twenty one -- 216. Combination Sum III <br />
+August/Twenty-three/ Two Thousand -Twenty one -- 494. Target Sum <br />
