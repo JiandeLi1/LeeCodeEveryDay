@@ -116,3 +116,4 @@ August/Twenty-one/ Two Thousand -Twenty one -- 39. Combination Sum (using backtr
 August/Twenty-two/ Two Thousand -Twenty one -- 216. Combination Sum III <br />
 August/Twenty-three/ Two Thousand -Twenty one -- 494. Target Sum <br />
 August/Twenty-four/ Two Thousand -Twenty one -- 797. All Paths From Source to Target <br />
+August/Twenty-four/ Two Thousand -Twenty one -- 46. Permutations<br />
