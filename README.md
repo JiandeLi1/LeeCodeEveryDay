@@ -121,3 +121,4 @@ August/Twenty-six/ Two Thousand -Twenty one -- 784. Letter Case Permutation <br 
 August/Twenty-seven/ Two Thousand -Twenty one -- 47. Permutations II <br />
 August/Twenty-eight/ Two Thousand -Twenty one -- 491. Increasing Subsequences <br />
 August/Twenty-eight/ Two Thousand -Twenty one -- 1079. Letter Tile Possibilities <br />
+August/Twenty-eight/ Two Thousand -Twenty one -- 698. Partition to K Equal Sum Subsets<br />
