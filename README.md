@@ -141,3 +141,6 @@ September/ fourteenth/Two / Two Thousand -Twenty one -- 515. Find Largest Value 
 September/ fifteenth /Two / Two Thousand -Twenty one -- 129. Sum Root to Leaf Numbers <br />
 September/ Sixteenth /Two / Two Thousand -Twenty one -- 257. Binary Tree Paths <br />
 September/ Seventeenth /Two / Two Thousand -Twenty one -- BFS,DSF review <br />
+September/ Twenty-one /Two / Two Thousand -Twenty one -- 226. Invert Binary Tree<br />
+September/ Twenty-two /Two / Two Thousand -Twenty one -- 230. Kth Smallest Element in a BST <br />
+September/ Twenty-three /Two / Two Thousand -Twenty one -- 111. Minimum Depth of Binary Tree <br />
