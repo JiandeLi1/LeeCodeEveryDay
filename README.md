@@ -144,3 +144,4 @@ September/ Seventeenth /Two / Two Thousand -Twenty one -- BFS,DSF review <br />
 September/ Twenty-one /Two / Two Thousand -Twenty one -- 226. Invert Binary Tree<br />
 September/ Twenty-two /Two / Two Thousand -Twenty one -- 230. Kth Smallest Element in a BST <br />
 September/ Twenty-three /Two / Two Thousand -Twenty one -- 111. Minimum Depth of Binary Tree <br />
+September/ Twenty-four /Two / Two Thousand -Twenty one -- 297. Serialize and Deserialize Binary Tree<br />
