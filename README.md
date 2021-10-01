@@ -147,3 +147,5 @@ September/ Twenty-three /Two / Two Thousand -Twenty one -- 111. Minimum Depth of
 September/ Twenty-four /Two / Two Thousand -Twenty one -- 297. Serialize and Deserialize Binary Tree (DFS)<br />
 September/ Twenty-five /Two / Two Thousand -Twenty one -- 297. Serialize and Deserialize Binary Tree (BFS)<br />
 September/ Twenty-six /Two / Two Thousand -Twenty one -- 35. Search Insert Position<br />
+September/ Twenty-seven /Two / Two Thousand -Twenty one -- 34. Find First and Last Position of Element in Sorted Array<br />
+September/ Twenty-eight /Two / Two Thousand -Twenty one -- 33. Search in Rotated Sorted Array<br />
