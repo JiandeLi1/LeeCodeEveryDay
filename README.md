@@ -149,3 +149,5 @@ September/ Twenty-five /Two / Two Thousand -Twenty one -- 297. Serialize and Des
 September/ Twenty-six /Two / Two Thousand -Twenty one -- 35. Search Insert Position<br />
 September/ Twenty-seven /Two / Two Thousand -Twenty one -- 34. Find First and Last Position of Element in Sorted Array<br />
 September/ Twenty-eight /Two / Two Thousand -Twenty one -- 33. Search in Rotated Sorted Array<br />
+September/ Twenty-nine /Two / Two Thousand -Twenty one -- 349. Intersection of Two Arrays<br />
+September/ Thirty /Two / Two Thousand -Twenty one -- 350. Intersection of Two Arrays II<br />
