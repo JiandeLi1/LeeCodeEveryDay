@@ -155,3 +155,4 @@ October / first  / Two Thousand -Twenty one -- 449. Serialize and Deserialize BS
 October / second  / Two Thousand -Twenty one -- 449. Serialize and Deserialize BST (BFS)<br />
 October / third  / Two Thousand -Twenty one -- 235. Lowest Common Ancestor of a Binary Search Tree <br />
 October / third  / Two Thousand -Twenty one -- 109. Convert Sorted List to Binary Search Tree<br />
+October / Fourth  / Two Thousand -Twenty one -- 921. Minimum Add to Make Parentheses Valid <br />
