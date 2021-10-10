@@ -157,3 +157,4 @@ October / third  / Two Thousand -Twenty one -- 235. Lowest Common Ancestor of a 
 October / third  / Two Thousand -Twenty one -- 109. Convert Sorted List to Binary Search Tree<br />
 October / Fourth  / Two Thousand -Twenty one -- 921. Minimum Add to Make Parentheses Valid <br />
 October /Fifth / Two-Thousand Twenty-one/Largest Smaller BST Key<br />
+October/Sixth / Two-Thousand Twenty-one / Flatten a Dictionary <br />
