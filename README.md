@@ -158,3 +158,4 @@ October / third  / Two Thousand -Twenty one -- 109. Convert Sorted List to Binar
 October / Fourth  / Two Thousand -Twenty one -- 921. Minimum Add to Make Parentheses Valid <br />
 October /Fifth / Two-Thousand Twenty-one/Largest Smaller BST Key<br />
 October/Sixth / Two-Thousand Twenty-one / Flatten a Dictionary <br />
+October/eleventh / Two-Thousand Twenty-one / 33. Search in Rotated Sorted Array(review)<br />
