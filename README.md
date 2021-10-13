@@ -159,3 +159,4 @@ October / Fourth  / Two Thousand -Twenty one -- 921. Minimum Add to Make Parenth
 October /Fifth / Two-Thousand Twenty-one/Largest Smaller BST Key<br />
 October/Sixth / Two-Thousand Twenty-one / Flatten a Dictionary <br />
 October/eleventh / Two-Thousand Twenty-one / 33. Search in Rotated Sorted Array(review)<br />
+October/twelve / Two-Thousand Twenty-one/ 290. Word Pattern<br />
