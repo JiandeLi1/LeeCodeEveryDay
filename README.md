@@ -163,3 +163,4 @@ October/twelve / Two-Thousand Twenty-one/ 290. Word Pattern<br />
 October/thirteen / Two-Thousand Twenty-one/49. Group Anagrams<br />
 October/fourteen / Two-Thousand Twenty-one/ 9. Palindrome Number <br />
 October/ fifteen/ Two-Thousand Twenty-one/ 3. Longest Substring Without Repeating Characters <br />
+October/sixteen/ Two-Thousand twenty-one/  219. Contains Duplicate II & 187. Repeated DNA Sequences <br />
