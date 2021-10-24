@@ -168,3 +168,4 @@ October/seventeen/ Two-Thousand twenty-one/ 76. Minimum Window Substring<br />
 October/Twenty/ Two-Thousand twenty-one/ 200. Number of Islands(DFS,BFS)<br />
 October/Twenty-one/Two-Thousand twenty-one/127. Word Ladder<br />
 October/ Twenty-two/ Two-Thousand twenty-one / 1863. Sum of All Subset XOR Totals<br />
+October/ Twenty-Third/ Two-Thousand twenty-one /126.Word Ladder II<br />
