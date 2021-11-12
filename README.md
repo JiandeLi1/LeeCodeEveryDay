@@ -172,3 +172,4 @@ October/ Twenty-Third/ Two-Thousand twenty-one /126.Word Ladder II<br />
 November/first/two-thousand twenty one / 70. Climbing Stairs <br />
 November/six/two thousand twenty-one /322. Coin Change，66. Plus One<br />
 November/eight/two thousand - twenty one/118. Pascal's Triangle<br />
+November/eleventh/two thousand - twenty one/120. Triangle<br />
