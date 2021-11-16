@@ -174,3 +174,4 @@ November/six/two thousand twenty-one /322. Coin Change，66. Plus One<br />
 November/eight/two thousand - twenty one/118. Pascal's Triangle<br />
 November/eleventh/two thousand - twenty one/120. Triangle<br />
 November/thirdteen/ two thousand - twenty one/ 300. Longest Increasing Subsequence<br />
+November/ Fifth/ two thousand - twenty one/ 119. Pascal's Triangle II<br />
