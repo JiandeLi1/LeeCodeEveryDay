@@ -177,3 +177,4 @@ November/thirdteen/ two thousand - twenty one/ 300. Longest Increasing Subsequen
 November/ Fifteen/ two thousand - twenty one/ 119. Pascal's Triangle II<br />
 November/ sixteen/th/ two thousand - twenty one/ 334. Increasing Triplet Subsequence<br />
 November/ twenty-two / two thousand - twenty one/ 1995. Count Special Quadruplets<br />
+November/ twenty-seven / two thousand - twenty one/64. Minimum Path Sum<br />
