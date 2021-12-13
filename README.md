@@ -184,3 +184,4 @@ December/ four / two thousand - twenty one/121. Best Time to Buy and Sell Stock 
 December/ five / two thousand - twenty one/122. Best Time to Buy and Sell Stock II<br />
 December/ nine / two thousand - twenty one/740. Delete and Earn<br />
 December/ eleventh / two thousand - twenty one/279. Perfect Squares<br />
+December/ twelve / two thousand - twenty one/746. Min Cost Climbing Stairs<br />
