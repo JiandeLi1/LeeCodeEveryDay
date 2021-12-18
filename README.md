@@ -186,3 +186,4 @@ December/ nine / two thousand - twenty one/740. Delete and Earn<br />
 December/ eleventh / two thousand - twenty one/279. Perfect Squares<br />
 December/ twelve / two thousand - twenty one/746. Min Cost Climbing Stairs<br />
 December/ thirdteen / two thousand - twenty one/2057. Smallest Index With Equal Value <br />
+December/ eighteen / two thousand - twenty one/392. Is Subsequence <br />
