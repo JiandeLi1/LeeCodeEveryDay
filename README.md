@@ -196,3 +196,5 @@ January / Seventeenth / Two thousand - twenty two / 3. Longest Substring Without
 February/ first / Two Thousand - twenty two / 73. Set Matrix Zeroes <br />
 Februany/ Second / Two Thousand - Twenty two / 2. Add Two Numbers <br />
 February/ Third / Two Thousand - twenty two / 328. Odd Even Linked List <br />
+February / Fourth / Two thousand - twenty two/ 160. Intersection of Two Linked Lists<br />
+February / eight / Two Thousand - twenty two /94. Binary Tree Inorder Traversal<br />
