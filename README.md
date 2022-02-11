@@ -200,3 +200,4 @@ February / Fourth / Two thousand - twenty two/ 160. Intersection of Two Linked L
 February / eight / Two Thousand - twenty two /94. Binary Tree Inorder Traversal<br />
 Februany / nineth / Two Thousand - Twenty two / 103. Binary Tree Zigzag Level Order Traversal (recursion) <br />
 February / ten / Two thousand - twenty two/ 105. Construct Binary Tree from Preorder and Inorder Traversal<br />
+February / eleven / Two thousand - twenty two/ 116. Populating Next Right Pointers in Each Node <br />
