@@ -201,3 +201,4 @@ February / eight / Two Thousand - twenty two /94. Binary Tree Inorder Traversal<
 Februany / nineth / Two Thousand - Twenty two / 103. Binary Tree Zigzag Level Order Traversal (recursion) <br />
 February / ten / Two thousand - twenty two/ 105. Construct Binary Tree from Preorder and Inorder Traversal<br />
 February / eleven / Two thousand - twenty two/ 116. Populating Next Right Pointers in Each Node <br />
+February / twelve / Two Thousand - Twenty two / 230. Kth Smallest Element in a BST(res&iter) <br />
