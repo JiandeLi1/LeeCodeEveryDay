@@ -204,4 +204,5 @@ February / eleven / Two thousand - twenty two/ 116. Populating Next Right Pointe
 February / twelve / Two Thousand - Twenty two / 230. Kth Smallest Element in a BST(res&iter) <br />
 February/ thirdteen / Two Thousan - Twenty two / 200. Number of Islands（DFS）<br />
 February/ twenty-one/ Two Thousand - twenty two/ 22. Generate Parenthese 443. String Compression <br />
+Februany / twenty - three / Two Thousand - twenty two/ 46. Permutations <br />
 
