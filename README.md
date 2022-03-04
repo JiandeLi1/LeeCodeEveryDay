@@ -206,5 +206,6 @@ February/ thirdteen / Two Thousan - Twenty two / 200. Number of Islands（DFS）
 February/ twenty-one/ Two Thousand - twenty two/ 22. Generate Parenthese 443. String Compression <br />
 Februany / twenty - three / Two Thousand - twenty two/ 46. Permutations <br />
 Februany/ twenty eight / Two Thousand - twenty - two/ 78. Subsets<br />
-Februany/ March second / Two Thousand - twenty - two/79. Word Search<br />
+Februany/ twenty second / Two Thousand - twenty - two/79. Word Search<br />
+March / Four / Two thousand- twenty two/ 75. Sort Colors<br />
 
