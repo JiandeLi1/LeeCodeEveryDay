@@ -216,3 +216,4 @@ March / sixteen / two thousand - twenty two/ 56. Merge Intervals， 240. Search 
 March / eighteen / two thousand - twenty two/ 26. Remove Duplicates from Sorted Array， 189. Rotate Array <br />
 March / nineteen/ two thousand - twenty two/ 217. Contains Duplicate， 136. Single Number<br />
 April / Seven / Two thousand - twenty two / 410. Split Array Largest Sum <br />
+April / Thirteen / Two thousand - twenty two / 1552. Magnetic Force Between Two Balls <br />
