@@ -218,3 +218,4 @@ March / nineteen/ two thousand - twenty two/ 217. Contains Duplicate， 136. Sin
 April / Seven / Two thousand - twenty two / 410. Split Array Largest Sum <br />
 April / Thirteen / Two thousand - twenty two / 1552. Magnetic Force Between Two Balls <br />
 April/ Fourteen / Two Thousand - Twenty two/ 1482. Minimum Number of Days to Make m Bouquets<br />
+April/ Fifthteen / Two Thousand - Twenty two/ 1283. Find the Smallest Divisor Given a Threshold<br />
