@@ -1,4 +1,5 @@
 # LeeCodeEveryDay
+
 At least do one leecode problem each day <br />
 4/17/21--102. Binary Tree Level Order Traversal<br />
 4/18/21--103. Binary Tree Zigzag Level Order Traversal<br />
@@ -32,7 +33,7 @@ At least do one leecode problem each day <br />
 5/16/21--164. Maximum Gap<br />
 5/17/21--856. Score of Parentheses<br />
 5/18/21--678. Valid Parenthesis String<br />
-5/19/21--241. Different Ways to Add Parentheses && 1249. Minimum Remove to Make Valid Parentheses && 1541. Minimum Insertions to Balance a Parentheses String<br /> 
+5/19/21--241. Different Ways to Add Parentheses && 1249. Minimum Remove to Make Valid Parentheses && 1541. Minimum Insertions to Balance a Parentheses String<br />
 5/20/21--32. Longest Valid Parentheses && 20. Valid Parentheses<br />
 May/Twenty first/Two Thousand - Twenty one -- 1544. Make The String Great<br />
 May/Twenty-Second/Two Thousand - Twenty one -- 97. Interleaving String<br />
@@ -151,11 +152,11 @@ September/ Twenty-seven /Two / Two Thousand -Twenty one -- 34. Find First and La
 September/ Twenty-eight /Two / Two Thousand -Twenty one -- 33. Search in Rotated Sorted Array<br />
 September/ Twenty-nine /Two / Two Thousand -Twenty one -- 349. Intersection of Two Arrays<br />
 September/ Thirty /Two / Two Thousand -Twenty one -- 350. Intersection of Two Arrays II<br />
-October / first  / Two Thousand -Twenty one -- 449. Serialize and Deserialize BST (DFS)<br />
-October / second  / Two Thousand -Twenty one -- 449. Serialize and Deserialize BST (BFS)<br />
-October / third  / Two Thousand -Twenty one -- 235. Lowest Common Ancestor of a Binary Search Tree <br />
-October / third  / Two Thousand -Twenty one -- 109. Convert Sorted List to Binary Search Tree<br />
-October / Fourth  / Two Thousand -Twenty one -- 921. Minimum Add to Make Parentheses Valid <br />
+October / first / Two Thousand -Twenty one -- 449. Serialize and Deserialize BST (DFS)<br />
+October / second / Two Thousand -Twenty one -- 449. Serialize and Deserialize BST (BFS)<br />
+October / third / Two Thousand -Twenty one -- 235. Lowest Common Ancestor of a Binary Search Tree <br />
+October / third / Two Thousand -Twenty one -- 109. Convert Sorted List to Binary Search Tree<br />
+October / Fourth / Two Thousand -Twenty one -- 921. Minimum Add to Make Parentheses Valid <br />
 October /Fifth / Two-Thousand Twenty-one/Largest Smaller BST Key<br />
 October/Sixth / Two-Thousand Twenty-one / Flatten a Dictionary <br />
 October/eleventh / Two-Thousand Twenty-one / 33. Search in Rotated Sorted Array(review)<br />
@@ -163,7 +164,7 @@ October/twelve / Two-Thousand Twenty-one/ 290. Word Pattern<br />
 October/thirteen / Two-Thousand Twenty-one/49. Group Anagrams<br />
 October/fourteen / Two-Thousand Twenty-one/ 9. Palindrome Number <br />
 October/ fifteen/ Two-Thousand Twenty-one/ 3. Longest Substring Without Repeating Characters <br />
-October/sixteen/ Two-Thousand twenty-one/  219. Contains Duplicate II & 187. Repeated DNA Sequences <br />
+October/sixteen/ Two-Thousand twenty-one/ 219. Contains Duplicate II & 187. Repeated DNA Sequences <br />
 October/seventeen/ Two-Thousand twenty-one/ 76. Minimum Window Substring<br />
 October/Twenty/ Two-Thousand twenty-one/ 200. Number of Islands(DFS,BFS)<br />
 October/Twenty-one/Two-Thousand twenty-one/127. Word Ladder<br />
@@ -221,3 +222,4 @@ April/ Fourteen / Two Thousand - Twenty two/ 1482. Minimum Number of Days to Mak
 April/ Fifthteen / Two Thousand - Twenty two/ 1283. Find the Smallest Divisor Given a Threshold<br />
 April/ Twenty / Two thousand - twenty two/ 283. Move Zeroes <br />
 April/ Twenty one/ Two thousand - twenty two/ 11. Container With Most Water <br />
+May / second/ Two thousand - twenty two/ 209. Minimum Size Subarray Sum <br />
